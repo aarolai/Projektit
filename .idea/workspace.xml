@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d9bca4d-4c8b-4d5b-9241-037e21710607" name="Changes" comment="moduuli 2">
-      <change afterPath="$PROJECT_DIR$/Python moduulit/mod03/teht1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python moduulit/mod03/teht2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python moduulit/mod03/teht3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python moduulit/mod03/teht4.py" afterDir="false" />
+    <list default="true" id="0d9bca4d-4c8b-4d5b-9241-037e21710607" name="Changes" comment="moduuli 3">
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod04/teht1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod04/teht2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod04/teht3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod04/teht4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod04/teht5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod04/teht6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod05/teht1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod05/teht2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod05/teht3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod05/teht4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod06/teht1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod06/teht2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod06/teht3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod06/teht4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod06/teht5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python moduulit/mod06/teht6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +101,11 @@
       <workItem from="1724182322280" duration="1638000" />
       <workItem from="1724184072757" duration="1144000" />
       <workItem from="1724321282375" duration="6970000" />
-      <workItem from="1724652154800" duration="4460000" />
+      <workItem from="1724652154800" duration="9923000" />
+      <workItem from="1724665885778" duration="7671000" />
+      <workItem from="1724752908127" duration="7191000" />
+      <workItem from="1724828922100" duration="5208000" />
+      <workItem from="1724876915840" duration="1219000" />
     </task>
     <task id="LOCAL-00001" summary="moduuli 1">
       <option name="closed" value="true" />
@@ -123,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724652729775</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="moduuli 3">
+      <option name="closed" value="true" />
+      <created>1724656658083</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724656658083</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,15 +167,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="moduuli 1" />
     <MESSAGE value="moduuli 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="moduuli 2" />
+    <MESSAGE value="moduuli 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="moduuli 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Projektit$teht6.coverage" NAME="teht6 Coverage Results" MODIFIED="1724652674546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python moduulit/mod02" />
+    <SUITE FILE_PATH="coverage/Projektit$teht6.coverage" NAME="teht6 Coverage Results" MODIFIED="1724878106478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python moduulit/mod04" />
     <SUITE FILE_PATH="coverage/Projektit$mod01.coverage" NAME="mod01 Coverage Results" MODIFIED="1724184867974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python moduulit/mod01" />
-    <SUITE FILE_PATH="coverage/Projektit$teht4.coverage" NAME="teht4 Coverage Results" MODIFIED="1724656527285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python moduulit/mod03" />
-    <SUITE FILE_PATH="coverage/Projektit$teht5.coverage" NAME="teht5 Coverage Results" MODIFIED="1724328826787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python moduulit/mod02" />
-    <SUITE FILE_PATH="coverage/Projektit$teht2.coverage" NAME="teht2 Coverage Results" MODIFIED="1724654613467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python moduulit/mod03" />
-    <SUITE FILE_PATH="coverage/Projektit$teht3.coverage" NAME="teht3 Coverage Results" MODIFIED="1724656022188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python moduulit/mod03" />
-    <SUITE FILE_PATH="coverage/Projektit$teht1.coverage" NAME="teht1 Coverage Results" MODIFIED="1724654040634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python moduulit/mod03" />
+    <SUITE FILE_PATH="coverage/Projektit$teht4.coverage" NAME="teht4 Coverage Results" MODIFIED="1724830441895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python moduulit/mod05" />
+    <SUITE FILE_PATH="coverage/Projektit$teht5.coverage" NAME="teht5 Coverage Results" MODIFIED="1724661865608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python moduulit/mod04" />
+    <SUITE FILE_PATH="coverage/Projektit$teht2.coverage" NAME="teht2 Coverage Results" MODIFIED="1724832463079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python moduulit/mod05" />
+    <SUITE FILE_PATH="coverage/Projektit$teht3.coverage" NAME="teht3 Coverage Results" MODIFIED="1724760704628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python moduulit/mod05" />
+    <SUITE FILE_PATH="coverage/Projektit$teht1.coverage" NAME="teht1 Coverage Results" MODIFIED="1724833935416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python moduulit/mod06" />
   </component>
 </project>
